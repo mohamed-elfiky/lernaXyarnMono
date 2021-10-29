@@ -1,0 +1,14 @@
+{
+  "name": "lernaXyarnMono",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mohamed-elfiky/lernaXyarnMono.git",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
